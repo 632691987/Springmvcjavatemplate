@@ -12,7 +12,7 @@
 
     <properties>
         <encoding>UTF-8</encoding>
-        <spring.version>5.1.5.RELEASE</spring.version>
+        <spring.version>5.3.22</spring.version>
         <hibernate-validation>6.0.15.Final</hibernate-validation>
         <contextPath>test</contextPath>
 
